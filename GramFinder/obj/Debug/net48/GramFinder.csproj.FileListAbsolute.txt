@@ -1,0 +1,11 @@
+D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net48\GramFinder.csproj.AssemblyReference.cache
+D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net48\GramFinder.csproj.SuggestedBindingRedirects.cache
+D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net48\GramFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net48\GramFinder.AssemblyInfoInputs.cache
+D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net48\GramFinder.AssemblyInfo.cs
+D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net48\GramFinder.csproj.CoreCompileInputs.cache
+D:\c#\TextParser\TextParser\GramFinder\bin\Debug\net48\GramFinder.exe.config
+D:\c#\TextParser\TextParser\GramFinder\bin\Debug\net48\GramFinder.exe
+D:\c#\TextParser\TextParser\GramFinder\bin\Debug\net48\GramFinder.pdb
+D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net48\GramFinder.exe
+D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net48\GramFinder.pdb
