@@ -9,3 +9,8 @@ D:\c#\TextParser\TextParser\GramFinder\bin\Debug\net48\GramFinder.exe
 D:\c#\TextParser\TextParser\GramFinder\bin\Debug\net48\GramFinder.pdb
 D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net48\GramFinder.exe
 D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net48\GramFinder.pdb
+D:\c#\TextParser\TextParser\GramFinder\bin\Debug\net48\System.Buffers.dll
+D:\c#\TextParser\TextParser\GramFinder\bin\Debug\net48\System.Memory.dll
+D:\c#\TextParser\TextParser\GramFinder\bin\Debug\net48\System.Numerics.Vectors.dll
+D:\c#\TextParser\TextParser\GramFinder\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net48\GramFinder.csproj.CopyComplete

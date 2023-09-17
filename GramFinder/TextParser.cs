@@ -19,13 +19,13 @@ namespace TextParser
         public IEnumerable<string> Parse(string path)
         {
             var allWords = new ConcurrentBag<string>();
-
             try
             {
-                Parallel.ForEach(File.ReadLines(path), line =>
+                var partitioner = Partitioner.Create(File.ReadLines(path));
+                Parallel.ForEach(partitioner, line =>
                 {
                     string[] sentences = line.Split(separatingChars, StringSplitOptions.RemoveEmptyEntries);
-                    allWords.AddRange(sentences);
+                        allWords.AddRange(sentences);
                 });
             }
             catch (ArgumentException)
