@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WEIo5iWFnGJkmGVjGSg9OnDGvu4FwmyLk7D2RyqX1euE0AYDBFDUAfXczwCFlhhwE3hT9vU7bEPDGtWg4uACrQ==",
+  "dgSpecHash": "8QbO7NvWl2fbnO4qoswTuQEygQfKZNZBDCgFlKgpHNyVRD3mSyi+YolXUusw54T5Su9N9jl9YWNShDXpL4G6fw==",
   "success": true,
   "projectFilePath": "D:\\c#\\TextParser\\TextParser\\GramFinder\\GramFinder.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Alex\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\Alex\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
-    "C:\\Users\\Alex\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Users\\Alex\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512"
+    "C:\\Users\\Alex\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
   ],
   "logs": []
 }

@@ -17,13 +17,7 @@ namespace TextParser
 
         public static void Main()
         {
-          ReadOnlyMemory<char> word = "the".AsMemory();
-          var dictionary = new Dictionary<ReadOnlyMemory<char>, int>(new ReadOnlyMemoryComparer());
-          dictionary[word] = 1;
-          //dictionary.AddOrUpdate(word.Slice(0,3), addValue: 1, updateValueFactory: (_, value) => ++value);
-          Console.WriteLine(dictionary.ContainsKey("tHe".AsMemory()));
-          Console.ReadLine();
-           char[] separatingChars = {'.', '!', '?', ';', ':', '(', ')',' ', ',', '"', '\n', '-', '\'', '“', '”'};
+            char[] separatingChars = { '.', '!', '?', ';', ':', '(', ')', ' ', ',', '"' };
 
             var textParser = new TextParser(separatingChars);
             var prefixFinder = new PrefixFinder();
@@ -31,12 +25,15 @@ namespace TextParser
             string path = "D:/c#/TextAnalysis.csproj/HarryPotterText.txt";
 
             watch.Start();
-            var combinations = new PrefixFinder_new().Find(path, separatingChars);
+            var combination = textParser.ParseToMemory(path);
+            var dict = prefixFinder.GetMostFrequentPrefixesToCount(combination, CHARS_PER_PREFIX_COUNT, MAX_PREFIXES_COUNT);
             watch.Stop();
 
-            foreach (var keyValuePair in combinations)
+            foreach (var keyValuePair in dict)
                 Console.WriteLine(keyValuePair.Key + " " + keyValuePair.Value);
             Console.WriteLine(watch.ElapsedMilliseconds);
         }
+
+
     }
 }

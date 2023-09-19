@@ -15,25 +15,31 @@ namespace TextParser
         private readonly char[] separatingChars;
 
         public TextParser(char[] separatingChars) => this.separatingChars = separatingChars;
-
-        public IEnumerable<string> Parse(string path)
+        public IEnumerable<ReadOnlyMemory<char>> ParseToMemory(string path)
         {
-            var allWords = new ConcurrentBag<string>();
-            try
+      
+            var allWords = new List<ReadOnlyMemory<char>>();
+            var partitioner = Partitioner.Create(File.ReadLines(path));
+
+            Parallel.ForEach(partitioner,
+                () => new List<ReadOnlyMemory<char>>(),
+                (line, _, localList) =>
             {
-                var partitioner = Partitioner.Create(File.ReadLines(path));
-                Parallel.ForEach(partitioner, line =>
+                var memory = line.AsMemory();
+                foreach (var word in memory.Split(separatingChars))
+                    localList.Add(word);
+                return localList;
+            }, 
+                localList=>
+            {
+                lock (allWords)
                 {
-                    string[] sentences = line.Split(separatingChars, StringSplitOptions.RemoveEmptyEntries);
-                        allWords.AddRange(sentences);
-                });
-            }
-            catch (ArgumentException)
-            {
-                Console.WriteLine("Empty String");
-            }
-
-
+                    foreach (var el in localList)
+                    {
+                        allWords.Add(el);
+                    }
+                }
+            });
             return allWords;
         }
     }
