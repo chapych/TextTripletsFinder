@@ -1,0 +1,14 @@
+D:\c#\TextParser\TextParser\GramFinder\bin\Release\net7.0\GramFinder.exe
+D:\c#\TextParser\TextParser\GramFinder\bin\Release\net7.0\GramFinder.deps.json
+D:\c#\TextParser\TextParser\GramFinder\bin\Release\net7.0\GramFinder.runtimeconfig.json
+D:\c#\TextParser\TextParser\GramFinder\bin\Release\net7.0\GramFinder.dll
+D:\c#\TextParser\TextParser\GramFinder\bin\Release\net7.0\GramFinder.pdb
+D:\c#\TextParser\TextParser\GramFinder\obj\Release\net7.0\GramFinder.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\TextParser\TextParser\GramFinder\obj\Release\net7.0\GramFinder.AssemblyInfoInputs.cache
+D:\c#\TextParser\TextParser\GramFinder\obj\Release\net7.0\GramFinder.AssemblyInfo.cs
+D:\c#\TextParser\TextParser\GramFinder\obj\Release\net7.0\GramFinder.csproj.CoreCompileInputs.cache
+D:\c#\TextParser\TextParser\GramFinder\obj\Release\net7.0\GramFinder.dll
+D:\c#\TextParser\TextParser\GramFinder\obj\Release\net7.0\refint\GramFinder.dll
+D:\c#\TextParser\TextParser\GramFinder\obj\Release\net7.0\GramFinder.pdb
+D:\c#\TextParser\TextParser\GramFinder\obj\Release\net7.0\GramFinder.genruntimeconfig.cache
+D:\c#\TextParser\TextParser\GramFinder\obj\Release\net7.0\ref\GramFinder.dll

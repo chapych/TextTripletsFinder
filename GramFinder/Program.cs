@@ -27,10 +27,12 @@ namespace TextParser
             watch.Start();
             var combination = textParser.ParseToMemory(path);
             var dict = prefixFinder.GetMostFrequentPrefixesToCount(combination, CHARS_PER_PREFIX_COUNT, MAX_PREFIXES_COUNT);
+            //var comb = textParser.Parse(path);
+            //var dict = prefixFinder.GetMostFrequentPrefixesToCount(comb, CHARS_PER_PREFIX_COUNT, MAX_PREFIXES_COUNT);
             watch.Stop();
 
             foreach (var keyValuePair in dict)
-                Console.WriteLine(keyValuePair.Key + " " + keyValuePair.Value);
+                Console.WriteLine(keyValuePair.Key.ToString().ToLower() + " " + keyValuePair.Value);
             Console.WriteLine(watch.ElapsedMilliseconds);
         }
 
