@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4b83c939_002Df0b1_002D4583_002Db1fc_002D06c20ceeda66/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TupleSplitting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4D0CAA2F-9342-4D9E-9FB3-DEACC5729BBA::.NETFramework,Version=v4.8::Tests.Tests+CorrectSplitting.TupleSplitting&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4D0CAA2F-9342-4D9E-9FB3-DEACC5729BBA::.NETFramework,Version=v4.8::Tests.Tests+CorrectSplitting.MemoryTupleSplitting&lt;/TestId&gt;&#xD;
+    &lt;TestId xml:space="preserve"&gt;NUnit3x::4D0CAA2F-9342-4D9E-9FB3-DEACC5729BBA::.NETFramework,Version=v4.8::Tests.Tests+CorrectSplitting.MemoryTupleSplitting(",hello,    world,,",["hello", "    world"],[','])&lt;/TestId&gt;&#xD;
+    &lt;TestId xml:space="preserve"&gt;NUnit3x::4D0CAA2F-9342-4D9E-9FB3-DEACC5729BBA::.NETFramework,Version=v4.8::Tests.Tests+CorrectSplitting.MemoryTupleSplitting("     ,     , , , , ,hello,world,,,,",["hello", "world"],[','])&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4D0CAA2F-9342-4D9E-9FB3-DEACC5729BBA::.NETFramework,Version=v4.8::Tests.Tests+CorrectSplitting.MemoryTupleSplitting("b;\tc;\rd;\ne;\r\nf;\r\n\r\ng",["b", "c", "d", "e", "f", ...],['\t', '\r', '\n', ';'])&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

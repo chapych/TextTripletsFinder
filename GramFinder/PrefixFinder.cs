@@ -33,5 +33,24 @@ namespace TextParser
              });
              return prefixToCount;
         }
+
+        public void FindAllPrefixes(ReadOnlyMemory<char> word, ConcurrentDictionary<ReadOnlyMemory<char>, int> prefixToCount,
+            int prefixCount)
+        {
+            if (word.Length < prefixCount) return;
+            for (int i = word.Length - prefixCount; i >= 0; i--)
+            {
+                var key = word.Slice(i, prefixCount);
+                prefixToCount.AddOrUpdate(key, addValue: 1, updateValueFactory: (_, value) => ++value);
+
+                if (word.ToString() == "the")
+                {
+                    Console.WriteLine("the".AsMemory().Equals(key));
+                   // Console.WriteLine("the".AsMemory().Span.ToString() + " " + key.Span.ToString());
+                    //prefixToCount.TryGetValue("the".AsMemory(), out int index);
+                    //Console.WriteLine("word " + word + " " + " key:" + key + " " + index);
+                }
+            }
+        }
     }
 }

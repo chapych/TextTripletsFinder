@@ -9,22 +9,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a2ea18b4-661a-44ad-843d-a8bcd11fd33d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TextParser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TextParser/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/GramFinder.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/GramFinder.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/PrefixFinder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/PrefixFinder.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/TextParser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/TextParser.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/bin/Debug/net48/GramFinder.exe" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/bin/Debug/net48/GramFinder.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/bin/Debug/net48/GramFinder.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/bin/Debug/net48/GramFinder.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.exe" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/GramFinder.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/GramFinder.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,17 +19,31 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../../TextAnalysis.csproj/Program.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/72/48e3cdd8/List`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tests/Tests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.GlobalUsings.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/805945F3-27B0-47AD-B8F6-389D9D8F82C3/15/37ad4922/ReadOnlySpan`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F6018E31-B1DA-4DAC-800F-72EC902C5D33/4f/5eab6b9c/Unsafe.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/72/48e3cdd8/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/89/2362b99f/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/8b/ca807145/Monitor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/db/4d0e011e/Boolean.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/22/5855c190/ThreadHelper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/805945F3-27B0-47AD-B8F6-389D9D8F82C3/24/a9167059/ReadOnlyMemory`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/87/ba46dace/Console.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GramFinder/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/b9/572ef20e/Volatile.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/7f/0ed858d9/ConcurrentDictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../TextAnalysis.csproj/SentencesParser_Tests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../TextAnalysis.csproj/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/805945F3-27B0-47AD-B8F6-389D9D8F82C3/b9/f551109a/MemoryExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/GramFinder/obj/Debug/net48/GramFinder.GlobalUsings.g.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../../TextAnalysis.csproj/SentencesParser_Tests.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tests/obj/Debug/net48/Tests.GlobalUsings.g.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/805945F3-27B0-47AD-B8F6-389D9D8F82C3/a0/8c1fd34e/SpanHelpers.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/805945F3-27B0-47AD-B8F6-389D9D8F82C3/15/37ad4922/ReadOnlySpan`1.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -60,15 +58,20 @@
         <option value="$PROJECT_DIR$/GramFinder/Extensions/ConcurrentBagExtensions.cs" />
         <option value="$PROJECT_DIR$/GramFinder/NonCaseSensititveComparer.cs" />
         <option value="$PROJECT_DIR$/GramFinder/NonCaseSensitiveComparer.cs" />
-        <option value="$PROJECT_DIR$/GramFinder/Program.cs" />
         <option value="$PROJECT_DIR$/GramFinder/Extensions/StringExtensions.cs" />
         <option value="$PROJECT_DIR$/Tests/Usings.cs" />
         <option value="$PROJECT_DIR$/Tests/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/Tests/Tests.csproj" />
-        <option value="$PROJECT_DIR$/Tests/Tests.cs" />
-        <option value="$PROJECT_DIR$/GramFinder/Extensions/SpanExtensions.cs" />
         <option value="$PROJECT_DIR$/GramFinder/TextParser.cs" />
+        <option value="$PROJECT_DIR$/GramFinder/Extensions/SpanExtensions.cs" />
+        <option value="$PROJECT_DIR$/GramFinder/Extensions/SpanExtensions/SpanExtenstion.cs" />
+        <option value="$PROJECT_DIR$/GramFinder/Extensions/SpanExtensions/SpanExtenstions_2.cs" />
+        <option value="$PROJECT_DIR$/GramFinder/Extensions/MemoryExtensions.cs" />
+        <option value="$PROJECT_DIR$/Tests/Tests.cs" />
+        <option value="$PROJECT_DIR$/GramFinder/PrefixFinder_new.cs" />
         <option value="$PROJECT_DIR$/GramFinder/PrefixFinder.cs" />
+        <option value="$PROJECT_DIR$/GramFinder/Program.cs" />
+        <option value="$PROJECT_DIR$/GramFinder/Comparers/ReadOnlyMemoryComparer.cs" />
       </list>
     </option>
   </component>
@@ -81,7 +84,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.CSharpInteractiveConfiguration" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tests/Tests.csproj" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
   </component>
   <component name="RunManager" selected=".NET Project.TextParser">
     <configuration name="TextParser" type="DotNetProject" factoryName=".NET Project">
@@ -112,20 +116,39 @@
       <option name="presentableId" value="Default" />
       <updated>1694863655105</updated>
       <workItem from="1694863660216" duration="7192000" />
-      <workItem from="1694871085944" duration="27837000" />
+      <workItem from="1694871085944" duration="28275000" />
+      <workItem from="1695046275774" duration="26146000" />
     </task>
+    <task id="LOCAL-00001" summary="Final">
+      <created>1694951659201</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694951659201</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="413" height="464" key="DebuggerActiveHint" timestamp="1694946672091">
+    <state x="393" y="111" width="763" height="484" key="CommitChangelistDialog2" timestamp="1695115461087">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="413" height="464" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1694946672091" />
+    <state x="393" y="111" width="763" height="484" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1695115461087" />
+    <state width="413" height="464" key="DebuggerActiveHint" timestamp="1695060253859">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="413" height="464" key="DebuggerActiveHint/0.0.1536.864@0.0.1536.864" timestamp="1695060253859" />
+    <state x="419" y="375" key="FileChooserDialogImpl" timestamp="1695115088574">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="419" y="375" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1695115088574" />
     <state x="647" y="330" key="Github.ShareDialog" timestamp="1694899031359">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -134,108 +157,172 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="525" y="140" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1694899054955" />
-    <state width="1537" height="147" key="GridCell.Tab.0.bottom" timestamp="1694951020342">
+    <state width="1493" height="200" key="GridCell.Tab.0.bottom" timestamp="1695115282162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="147" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1694951020342" />
-    <state width="1537" height="147" key="GridCell.Tab.0.center" timestamp="1694951020342">
+    <state width="1493" height="200" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1695115282162" />
+    <state width="1493" height="200" key="GridCell.Tab.0.center" timestamp="1695115282162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="147" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1694951020342" />
-    <state width="1537" height="147" key="GridCell.Tab.0.left" timestamp="1694951020342">
+    <state width="1493" height="200" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1695115282162" />
+    <state width="1493" height="200" key="GridCell.Tab.0.left" timestamp="1695115282162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="147" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1694951020342" />
-    <state width="1537" height="147" key="GridCell.Tab.0.right" timestamp="1694951020342">
+    <state width="1493" height="200" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1695115282162" />
+    <state width="1493" height="200" key="GridCell.Tab.0.right" timestamp="1695115282162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="147" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1694951020342" />
-    <state width="1537" height="286" key="GridCell.Tab.1.bottom" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1695115282162" />
+    <state width="1493" height="200" key="GridCell.Tab.1.bottom" timestamp="1695115282162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.1.center" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1695115282162" />
+    <state width="1493" height="200" key="GridCell.Tab.1.center" timestamp="1695115282162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.1.left" timestamp="1694946743633">
+    <state width="1493" height="200" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1695115282162" />
+    <state width="1493" height="200" key="GridCell.Tab.1.left" timestamp="1695115282162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1694946743633" />
-    <state width="1537" height="286" key="GridCell.Tab.1.right" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1695115282162" />
+    <state width="1493" height="200" key="GridCell.Tab.1.right" timestamp="1695115282162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.2.bottom" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1695115282162" />
+    <state width="1493" height="200" key="GridCell.Tab.2.bottom" timestamp="1695115282163">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.2.center" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1695115282163" />
+    <state width="1493" height="200" key="GridCell.Tab.2.center" timestamp="1695115282162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.2.left" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1695115282162" />
+    <state width="1493" height="200" key="GridCell.Tab.2.left" timestamp="1695115282162">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.2.right" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1695115282162" />
+    <state width="1493" height="200" key="GridCell.Tab.2.right" timestamp="1695115282163">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.3.bottom" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1695115282163" />
+    <state width="1493" height="200" key="GridCell.Tab.3.bottom" timestamp="1695115282163">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.3.center" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1695115282163" />
+    <state width="1493" height="200" key="GridCell.Tab.3.center" timestamp="1695115282163">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.3.left" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1695115282163" />
+    <state width="1493" height="200" key="GridCell.Tab.3.left" timestamp="1695115282163">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.3.right" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1695115282163" />
+    <state width="1493" height="200" key="GridCell.Tab.3.right" timestamp="1695115282163">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.4.bottom" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1695115282163" />
+    <state width="1493" height="200" key="GridCell.Tab.4.bottom" timestamp="1695115282163">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.4.bottom/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.4.center" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.4.bottom/0.0.1536.864@0.0.1536.864" timestamp="1695115282163" />
+    <state width="1493" height="200" key="GridCell.Tab.4.center" timestamp="1695115282163">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.4.center/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.4.left" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.4.center/0.0.1536.864@0.0.1536.864" timestamp="1695115282163" />
+    <state width="1493" height="200" key="GridCell.Tab.4.left" timestamp="1695115282163">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.4.left/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state width="1537" height="286" key="GridCell.Tab.4.right" timestamp="1694946743634">
+    <state width="1493" height="200" key="GridCell.Tab.4.left/0.0.1536.864@0.0.1536.864" timestamp="1695115282163" />
+    <state width="1493" height="200" key="GridCell.Tab.4.right" timestamp="1695115282163">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1537" height="286" key="GridCell.Tab.4.right/0.0.1536.864@0.0.1536.864" timestamp="1694946743634" />
-    <state x="361" y="164" key="Rider.ProjectTemplateDialog.Size" timestamp="1694945007473">
+    <state width="1493" height="200" key="GridCell.Tab.4.right/0.0.1536.864@0.0.1536.864" timestamp="1695115282163" />
+    <state x="361" y="164" key="Rider.ProjectTemplateDialog.Size" timestamp="1695115118101">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="164" key="Rider.ProjectTemplateDialog.Size/0.0.1536.864@0.0.1536.864" timestamp="1694945007473" />
-    <state x="601" y="134" key="RiderGenerateDialog" timestamp="1694896737901">
+    <state x="361" y="164" key="Rider.ProjectTemplateDialog.Size/0.0.1536.864@0.0.1536.864" timestamp="1695115118101" />
+    <state x="601" y="134" key="RiderGenerateDialog" timestamp="1695110397632">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="601" y="134" key="RiderGenerateDialog/0.0.1536.864@0.0.1536.864" timestamp="1694896737901" />
-    <state x="277" y="77" key="SettingsEditor" timestamp="1694863819585">
+    <state x="601" y="134" key="RiderGenerateDialog/0.0.1536.864@0.0.1536.864" timestamp="1695110397632" />
+    <state x="174" y="157" width="981" height="707" key="SettingsEditor" timestamp="1695115136379">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="277" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1694863819585" />
+    <state x="174" y="157" width="981" height="707" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1695115136379" />
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2" timestamp="1695115299444">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1695115299444" />
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1694866326795">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1694866326795" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Tests/Tests.cs</url>
+          <line>36</line>
+          <properties documentPath="D:\c#\TextParser\TextParser\Tests\Tests.cs" initialLine="36">
+            <startOffsets>
+              <option value="1715" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1764" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/GramFinder/PrefixFinder_new.cs</url>
+          <line>32</line>
+          <properties documentPath="D:\c#\TextParser\TextParser\GramFinder\PrefixFinder_new.cs" initialLine="32">
+            <startOffsets>
+              <option value="1264" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1338" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/105DA115-9EC9-496A-B931-0694C7B11DD2/7f/0ed858d9/ConcurrentDictionary`2.cs</url>
+          <line>292</line>
+          <properties documentPath="C:\Users\Alex\AppData\Roaming\JetBrains\Rider2020.2\resharper-host\DecompilerCache\decompiler\105DA115-9EC9-496A-B931-0694C7B11DD2\7f\0ed858d9\ConcurrentDictionary`2.cs" initialLine="292">
+            <startOffsets>
+              <option value="18007" />
+            </startOffsets>
+            <endOffsets>
+              <option value="18180" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/GramFinder/Comparers/ReadOnlyMemoryComparer.cs</url>
+          <line>9</line>
+          <properties documentPath="D:\c#\TextParser\TextParser\GramFinder\Comparers\ReadOnlyMemoryComparer.cs" initialLine="9">
+            <startOffsets>
+              <option value="275" />
+            </startOffsets>
+            <endOffsets>
+              <option value="340" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="node" language="C#" />
+      </configuration>
       <configuration name="RiderUnitTests">
-        <watch expression="Current" language="C#" />
-        <watch expression="Current.IsWhiteSpace()" language="C#" />
+        <watch expression="current.IsWhiteSpace()" language="C#" />
+        <watch expression="index!=0 &amp;&amp; !current.IsWhiteSpace()" language="C#" />
+        <watch expression="split.ToString()" language="C#" />
       </configuration>
     </watches-manager>
   </component>
