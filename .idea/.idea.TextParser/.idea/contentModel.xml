@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Alex\.nuget\packages\nunit3testadapter\4.4.2\build\net462\nunit.engine.api.dll" t="Include" />
-    <e p="C:\Users\Alex\.nuget\packages\nunit3testadapter\4.4.2\build\net462\nunit.engine.core.dll" t="Include" />
-    <e p="C:\Users\Alex\.nuget\packages\nunit3testadapter\4.4.2\build\net462\nunit.engine.dll" t="Include" />
-    <e p="C:\Users\Alex\.nuget\packages\nunit3testadapter\4.4.2\build\net462\NUnit3.TestAdapter.dll" t="Include" />
-    <e p="C:\Users\Alex\.nuget\packages\nunit3testadapter\4.4.2\build\net462\NUnit3.TestAdapter.pdb" t="Include" />
-    <e p="C:\Users\Alex\.nuget\packages\nunit3testadapter\4.4.2\build\net462\testcentric.engine.metadata.dll" t="Include" />
+    <e p="C:\Users\Alex\.nuget\packages\microsoft.net.test.sdk\17.5.0\build\netcoreapp3.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\Alex\.nuget\packages\microsoft.testplatform.testhost\17.5.0\build\netcoreapp3.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\Alex\.nuget\packages\microsoft.testplatform.testhost\17.5.0\build\netcoreapp3.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\Alex\.nuget\packages\nunit3testadapter\4.4.2\build\netcoreapp3.1\nunit.engine.api.dll" t="Include" />
+    <e p="C:\Users\Alex\.nuget\packages\nunit3testadapter\4.4.2\build\netcoreapp3.1\nunit.engine.core.dll" t="Include" />
+    <e p="C:\Users\Alex\.nuget\packages\nunit3testadapter\4.4.2\build\netcoreapp3.1\nunit.engine.dll" t="Include" />
+    <e p="C:\Users\Alex\.nuget\packages\nunit3testadapter\4.4.2\build\netcoreapp3.1\NUnit3.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\Alex\.nuget\packages\nunit3testadapter\4.4.2\build\netcoreapp3.1\NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="C:\Users\Alex\.nuget\packages\nunit3testadapter\4.4.2\build\netcoreapp3.1\testcentric.engine.metadata.dll" t="Include" />
     <e p="C:\Users\Alex\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
     <e p="C:\Users\Alex\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_TextParser.-1101075748.00" t="ExcludeRecursive" />
     <e p="D:\c#\TextParser\TextParser" t="IncludeFlat">
@@ -18,21 +23,17 @@
         <e p="Extensions" t="Include">
           <e p="ConcurrentBagExtensions.cs" t="Include" />
           <e p="MemoryExtensions.cs" t="Include" />
-          <e p="SpanExtensions" t="Include">
-            <e p="SpanExtensions.cs" t="Include" />
-            <e p="SpanExtenstions_2.cs" t="Include" />
-          </e>
+          <e p="StreamReaderExtensions.cs" t="Include" />
         </e>
         <e p="GramFinder.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="net48" t="Include">
+            <e p="net7.0" t="Include">
               <e p="GramFinder.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
         </e>
         <e p="PrefixFinder.cs" t="Include" />
-        <e p="PrefixFinder_new.cs" t="Include" />
         <e p="Program.cs" t="Include" />
         <e p="TextParser.cs" t="Include" />
       </e>
@@ -41,7 +42,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
-            <e p="net48" t="Include">
+            <e p="net7.0" t="Include">
               <e p="Tests.AssemblyInfo.cs" t="Include" />
             </e>
           </e>

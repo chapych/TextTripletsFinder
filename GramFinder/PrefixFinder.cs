@@ -20,7 +20,7 @@ namespace TextParser
             return mostFrequentPrefixes;
         }
         
-        private Dictionary<ReadOnlyMemory<char>, int> FindAllPrefixesInMemory(List<ReadOnlyMemory<char>> words, int prefixCount)
+        private Dictionary<ReadOnlyMemory<char>, int> FindAllPrefixesInMemory(IReadOnlyCollection<ReadOnlyMemory<char>> words, int prefixCount)
         {
             var result = new Dictionary<ReadOnlyMemory<char>, int>(prefixCount * words.Count, new ReadOnlyMemoryComparer());
 
@@ -42,41 +42,14 @@ namespace TextParser
                 lock (result) 
                 { 
                     result.EnsureCapacity(localDict.Count);
-                    foreach (var kvp in localDict)
+                    foreach ((var key, int value) in localDict)
                     {
-                        if (result.ContainsKey(kvp.Key)) result[kvp.Key] += kvp.Value;
-                        else result.Add(kvp.Key, kvp.Value);
+                        if (result.ContainsKey(key)) result[key] += value;
+                        else result.Add(key, value);
                     }
                 }
             });
             return result;
-        }
-
-        public IEnumerable<KeyValuePair<string, int>> GetMostFrequentPrefixesToCount(IEnumerable<string> text,
-           int prefixCount, int max)
-        {
-            var allPrefixes = FindAllPrefixes(text, prefixCount);
-            var mostFrequentPrefixes = allPrefixes
-                .OrderByDescending(x => x.Value)
-                .Take(max);
-
-            return mostFrequentPrefixes;
-        }
-
-        private ConcurrentDictionary<string, int> FindAllPrefixes(IEnumerable<string> words, int prefixCount)
-        {
-            var prefixToCount = new ConcurrentDictionary<string, int>(StringComparer.OrdinalIgnoreCase);
-            var partitioner = Partitioner.Create(words);
-            Parallel.ForEach(partitioner, word =>
-            {
-                if (word.Length < prefixCount) return;
-                for (int i = word.Length - prefixCount; i >= 0; i--)
-                {
-                    string key = word.Substring(i, prefixCount);
-                    prefixToCount.AddOrUpdate(key, addValue: 1, updateValueFactory: (_, value) => ++value);
-                }
-            });
-            return prefixToCount;
         }
     }
 }

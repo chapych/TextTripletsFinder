@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 
 namespace TextParser.Extensions
@@ -28,7 +27,6 @@ namespace TextParser.Extensions
                     yield return new Range(pos, index);
                 pos = pos + index + 1;
             }
-            yield break;
         }
         public static IEnumerable<ReadOnlyMemory<char>> Split(this ReadOnlyMemory<char> initialMemory, char[] separators)
         {
@@ -51,7 +49,6 @@ namespace TextParser.Extensions
                     yield return current;
                 pos = pos + index + 1;
             }
-            yield break;
         }
     }
 }
