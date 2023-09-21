@@ -21,7 +21,6 @@
           <e p="ReadOnlyMemoryComparer.cs" t="Include" />
         </e>
         <e p="Extensions" t="Include">
-          <e p="ConcurrentBagExtensions.cs" t="Include" />
           <e p="MemoryExtensions.cs" t="Include" />
           <e p="StreamReaderExtensions.cs" t="Include" />
         </e>
@@ -33,9 +32,7 @@
             </e>
           </e>
         </e>
-        <e p="PrefixFinder.cs" t="Include" />
         <e p="Program.cs" t="Include" />
-        <e p="TextParser.cs" t="Include" />
       </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="Tests" t="IncludeRecursive">

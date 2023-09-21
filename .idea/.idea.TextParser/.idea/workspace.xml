@@ -8,44 +8,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2ea18b4-661a-44ad-843d-a8bcd11fd33d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GramFinder/Extensions/StreamReaderExtensions.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TextParser/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TextParser/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.TextParser/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TextParser/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TextParser/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TextParser/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/Comparers/ReadOnlyMemoryComparer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/Comparers/ReadOnlyMemoryComparer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GramFinder/Extensions/ConcurrentBagExtensions.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/GramFinder/Extensions/MemoryExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/Extensions/MemoryExtensions.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/Extensions/SpanExtensions/SpanExtensions.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/Extensions/SpanExtensions/SpanExtenstions_2.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/PrefixFinder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/PrefixFinder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GramFinder/Extensions/StreamReaderExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/Extensions/StreamReaderExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GramFinder/GramFinder.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/GramFinder.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GramFinder/PrefixFinder.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/GramFinder/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/TextParser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/TextParser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GramFinder/TextParser.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GramFinder/bin/Debug/net7.0/GramFinder.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/bin/Debug/net7.0/GramFinder.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GramFinder/bin/Debug/net7.0/GramFinder.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/bin/Debug/net7.0/GramFinder.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GramFinder/bin/Debug/net7.0/GramFinder.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/bin/Debug/net7.0/GramFinder.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/bin/Release/net7.0/GramFinder.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/bin/Release/net7.0/GramFinder.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/bin/Release/net7.0/GramFinder.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/bin/Release/net7.0/GramFinder.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/GramFinder.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/GramFinder.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/GramFinder.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/GramFinder.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/GramFinder.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/GramFinder.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/GramFinder.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/GramFinder.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/GramFinder.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/GramFinder.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/ref/GramFinder.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/ref/GramFinder.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/refint/GramFinder.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Debug/net7.0/refint/GramFinder.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/Release/net7.0/GramFinder.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Release/net7.0/GramFinder.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/Release/net7.0/GramFinder.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Release/net7.0/GramFinder.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/Release/net7.0/ref/GramFinder.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Release/net7.0/ref/GramFinder.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GramFinder/obj/Release/net7.0/refint/GramFinder.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/Release/net7.0/refint/GramFinder.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GramFinder/obj/GramFinder.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/GramFinder.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GramFinder/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GramFinder/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GramFinder/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GramFinder/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/GramFinder/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Tests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net7.0/GramFinder.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net7.0/GramFinder.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net7.0/GramFinder.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net7.0/GramFinder.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net7.0/GramFinder.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net7.0/GramFinder.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net7.0/Tests.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net7.0/Tests.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net7.0/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net7.0/Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/bin/Debug/net7.0/Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/bin/Debug/net7.0/Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/Tests.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/Tests.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/Tests.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/Tests.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/Tests.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/Tests.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/ref/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/ref/Tests.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/refint/Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Debug/net7.0/refint/Tests.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/obj/Release/net7.0/Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Release/net7.0/Tests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextParser.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/TextParser.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/Tests.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,12 +103,13 @@
         <option value="$PROJECT_DIR$/GramFinder/Extensions/SpanExtensions/SpanExtenstion.cs" />
         <option value="$PROJECT_DIR$/GramFinder/Extensions/SpanExtensions/SpanExtenstions_2.cs" />
         <option value="$PROJECT_DIR$/GramFinder/PrefixFinder_new.cs" />
-        <option value="$PROJECT_DIR$/GramFinder/Extensions/MemoryExtensions.cs" />
         <option value="$PROJECT_DIR$/GramFinder/Comparers/ReadOnlyMemoryComparer.cs" />
-        <option value="$PROJECT_DIR$/GramFinder/PrefixFinder.cs" />
-        <option value="$PROJECT_DIR$/GramFinder/Extensions/StreamReaderExtensions.cs" />
         <option value="$PROJECT_DIR$/GramFinder/TextParser.cs" />
+        <option value="$PROJECT_DIR$/GramFinder/PrefixFinder.cs" />
+        <option value="$PROJECT_DIR$/GramFinder/PipelineParser.cs" />
         <option value="$PROJECT_DIR$/Tests/Tests.cs" />
+        <option value="$PROJECT_DIR$/GramFinder/Extensions/MemoryExtensions.cs" />
+        <option value="$PROJECT_DIR$/GramFinder/Extensions/StreamReaderExtensions.cs" />
         <option value="$PROJECT_DIR$/GramFinder/Program.cs" />
       </list>
     </option>
@@ -152,7 +158,8 @@
       <workItem from="1694871085944" duration="28275000" />
       <workItem from="1695046275774" duration="27019000" />
       <workItem from="1695156015844" duration="1898000" />
-      <workItem from="1695195688683" duration="6495000" />
+      <workItem from="1695195688683" duration="7311000" />
+      <workItem from="1695290640863" duration="14837000" />
     </task>
     <task id="LOCAL-00001" summary="Final">
       <created>1694951659201</created>
@@ -168,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695115611009</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Large File Support Added">
+      <created>1695208390882</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695208390882</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
@@ -177,17 +191,18 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Final" />
     <MESSAGE value="Temp Changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Temp Changes" />
+    <MESSAGE value="Large File Support Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Large File Support Added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1695196205994">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1695196205994" />
-    <state x="393" y="111" width="763" height="484" key="CommitChangelistDialog2" timestamp="1695115609765">
+    <state x="393" y="111" width="763" height="484" key="CommitChangelistDialog2" timestamp="1695208389459">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="393" y="111" width="763" height="484" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1695115609765" />
+    <state x="393" y="111" width="763" height="484" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1695208389459" />
     <state width="413" height="464" key="DebuggerActiveHint" timestamp="1695060253859">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -204,70 +219,70 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="525" y="140" key="Github.UntrackedFilesDialog/0.0.1536.864@0.0.1536.864" timestamp="1694899054955" />
-    <state width="1493" height="234" key="GridCell.Tab.0.bottom" timestamp="1695208174511">
+    <state width="1493" height="275" key="GridCell.Tab.0.bottom" timestamp="1695308901126">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="234" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1695208174511" />
-    <state width="1493" height="234" key="GridCell.Tab.0.center" timestamp="1695208174511">
+    <state width="1493" height="275" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1695308901126" />
+    <state width="1493" height="275" key="GridCell.Tab.0.center" timestamp="1695308901126">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="234" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1695208174511" />
-    <state width="1493" height="234" key="GridCell.Tab.0.left" timestamp="1695208174510">
+    <state width="1493" height="275" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1695308901126" />
+    <state width="1493" height="275" key="GridCell.Tab.0.left" timestamp="1695308901126">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="234" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1695208174510" />
-    <state width="1493" height="234" key="GridCell.Tab.0.right" timestamp="1695208174511">
+    <state width="1493" height="275" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1695308901126" />
+    <state width="1493" height="275" key="GridCell.Tab.0.right" timestamp="1695308901126">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="234" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1695208174511" />
-    <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1695205753750">
+    <state width="1493" height="275" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1695308901126" />
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1695217992988">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1695205753750" />
-    <state width="1493" height="2" key="GridCell.Tab.1.center" timestamp="1695205753750">
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1695217992988" />
+    <state width="1493" height="2" key="GridCell.Tab.1.center" timestamp="1695217992988">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1695205753750" />
-    <state width="1493" height="2" key="GridCell.Tab.1.left" timestamp="1695205753750">
+    <state width="1493" height="2" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1695217992988" />
+    <state width="1493" height="2" key="GridCell.Tab.1.left" timestamp="1695217992988">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1695205753750" />
-    <state width="1493" height="2" key="GridCell.Tab.1.right" timestamp="1695205753750">
+    <state width="1493" height="2" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1695217992988" />
+    <state width="1493" height="2" key="GridCell.Tab.1.right" timestamp="1695217992988">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1695205753750" />
-    <state width="1493" height="2" key="GridCell.Tab.2.bottom" timestamp="1695205753750">
+    <state width="1493" height="2" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1695217992988" />
+    <state width="1493" height="2" key="GridCell.Tab.2.bottom" timestamp="1695217992989">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1695205753750" />
-    <state width="1493" height="2" key="GridCell.Tab.2.center" timestamp="1695205753750">
+    <state width="1493" height="2" key="GridCell.Tab.2.bottom/0.0.1536.864@0.0.1536.864" timestamp="1695217992989" />
+    <state width="1493" height="2" key="GridCell.Tab.2.center" timestamp="1695217992988">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1695205753750" />
-    <state width="1493" height="2" key="GridCell.Tab.2.left" timestamp="1695205753750">
+    <state width="1493" height="2" key="GridCell.Tab.2.center/0.0.1536.864@0.0.1536.864" timestamp="1695217992988" />
+    <state width="1493" height="2" key="GridCell.Tab.2.left" timestamp="1695217992988">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1695205753750" />
-    <state width="1493" height="2" key="GridCell.Tab.2.right" timestamp="1695205753750">
+    <state width="1493" height="2" key="GridCell.Tab.2.left/0.0.1536.864@0.0.1536.864" timestamp="1695217992988" />
+    <state width="1493" height="2" key="GridCell.Tab.2.right" timestamp="1695217992989">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1695205753750" />
-    <state width="1493" height="2" key="GridCell.Tab.3.bottom" timestamp="1695205753750">
+    <state width="1493" height="2" key="GridCell.Tab.2.right/0.0.1536.864@0.0.1536.864" timestamp="1695217992989" />
+    <state width="1493" height="2" key="GridCell.Tab.3.bottom" timestamp="1695217992990">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1695205753750" />
-    <state width="1493" height="2" key="GridCell.Tab.3.center" timestamp="1695205753750">
+    <state width="1493" height="2" key="GridCell.Tab.3.bottom/0.0.1536.864@0.0.1536.864" timestamp="1695217992990" />
+    <state width="1493" height="2" key="GridCell.Tab.3.center" timestamp="1695217992990">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1695205753750" />
-    <state width="1493" height="2" key="GridCell.Tab.3.left" timestamp="1695205753750">
+    <state width="1493" height="2" key="GridCell.Tab.3.center/0.0.1536.864@0.0.1536.864" timestamp="1695217992990" />
+    <state width="1493" height="2" key="GridCell.Tab.3.left" timestamp="1695217992989">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1695205753750" />
-    <state width="1493" height="2" key="GridCell.Tab.3.right" timestamp="1695205753750">
+    <state width="1493" height="2" key="GridCell.Tab.3.left/0.0.1536.864@0.0.1536.864" timestamp="1695217992989" />
+    <state width="1493" height="2" key="GridCell.Tab.3.right" timestamp="1695217992990">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="2" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1695205753750" />
+    <state width="1493" height="2" key="GridCell.Tab.3.right/0.0.1536.864@0.0.1536.864" timestamp="1695217992990" />
     <state width="1493" height="200" key="GridCell.Tab.4.bottom" timestamp="1695116438848">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -296,14 +311,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="174" y="157" width="981" height="707" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1695196007741" />
-    <state x="361" y="152" key="Vcs.Push.Dialog.v2" timestamp="1695115613249">
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2" timestamp="1695208394531">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1695115613249" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1695195948453">
+    <state x="361" y="152" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1695208394531" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1695301443869">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1695195948453" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1695301443869" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

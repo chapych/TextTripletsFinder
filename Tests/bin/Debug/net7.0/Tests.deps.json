@@ -317,10 +317,19 @@
       },
       "NUnit.Analyzers/3.6.1": {},
       "NUnit3TestAdapter/4.4.2": {},
+      "System.IO.Pipelines/8.0.0-rc.1.23419.4": {
+        "runtime": {
+          "lib/net7.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.23.41904"
+          }
+        }
+      },
       "System.Memory/4.5.5": {},
       "System.Reflection.Metadata/1.6.0": {},
       "GramFinder/1.0.0": {
         "dependencies": {
+          "System.IO.Pipelines": "8.0.0-rc.1.23419.4",
           "System.Memory": "4.5.5"
         },
         "runtime": {
@@ -418,6 +427,13 @@
       "sha512": "sha512-vA/iHYcR+LYw+pRWQugckC/zW2fXHaqMr2uA82NOBt8v4YK4wMJrQ7QC8XLc7PjetEZ96cPbBTWsDDtmQiRZTA==",
       "path": "nunit3testadapter/4.4.2",
       "hashPath": "nunit3testadapter.4.4.2.nupkg.sha512"
+    },
+    "System.IO.Pipelines/8.0.0-rc.1.23419.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xha7Ev45lonwHcDCBUM52ps6dqI8p83mn/OjpBEiqW8dcmdw3lIqPLPj1pdDJOoBnznoEzXagA5nEw9WiEvEkg==",
+      "path": "system.io.pipelines/8.0.0-rc.1.23419.4",
+      "hashPath": "system.io.pipelines.8.0.0-rc.1.23419.4.nupkg.sha512"
     },
     "System.Memory/4.5.5": {
       "type": "package",

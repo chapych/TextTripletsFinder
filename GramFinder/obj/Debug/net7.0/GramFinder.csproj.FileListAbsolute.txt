@@ -12,3 +12,6 @@ D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net7.0\refint\GramFinder.dll
 D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net7.0\GramFinder.pdb
 D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net7.0\GramFinder.genruntimeconfig.cache
 D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net7.0\ref\GramFinder.dll
+D:\c#\TextParser\TextParser\GramFinder\bin\Debug\net7.0\System.IO.Pipelines.dll
+D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net7.0\GramFinder.csproj.AssemblyReference.cache
+D:\c#\TextParser\TextParser\GramFinder\obj\Debug\net7.0\GramFinder.csproj.CopyComplete
